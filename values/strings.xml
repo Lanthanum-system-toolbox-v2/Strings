@@ -147,7 +147,7 @@
     <string name="busybox_plz">The device does not support this feature, please install busybox</string>
     <string name="supported_part">The device supports this function</string>
     <string name="result">Result</string>
-    <string name="flashing">Flashing/extracting</string>
+    <string name="flashing">Flashing</string>
     <string name="change_pwd">Change password</string>
     <string name="old_pwd">Old password</string>
     <string name="new_pwd">New password</string>
@@ -340,5 +340,12 @@
     <string name="android_ver">Android version:</string>
     <string name="kernel_ver">Kernel version:</string>
     <string name="system_version">System version:</string>
-
+    <string name="partition1">Your device is not supported!</string>
+    <string name="part_welcome">(Welcome message)</string>
+    <string name="option">Option</string>
+    <string name="flash_image">Flash image</string>
+    <string name="export_image">Export image</string>
+    <string name="confirm_flash_image_path">Please confirm the image you want to flash</string>
+    <string name="image_extract_path_confirm">Please confirm the output path</string>
+    <string name="exporting_img">Exporting image</string>
 </resources>

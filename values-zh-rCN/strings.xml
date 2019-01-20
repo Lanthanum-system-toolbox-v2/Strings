@@ -147,7 +147,7 @@
     <string name="busybox_plz">设备不支持此功能，请安装busybox</string>
     <string name="result">结果</string>
     <string name="supported_part">设备支持此功能</string>
-    <string name="flashing">正在刷入/提取</string>
+    <string name="flashing">正在刷入镜像</string>
     <string name="change_pwd">修改密码</string>
     <string name="old_pwd">旧密码</string>
     <string name="new_pwd">新密码</string>
@@ -340,4 +340,12 @@
     <string name="android_ver">Android版本：</string>
     <string name="kernel_ver">内核版本：</string>
     <string name="system_version">版本号：</string>
+    <string name="partition1">设备不支持！</string>
+    <string name="part_welcome">欢迎使用分区管理工具，触摸下方列表中的任何一个分区来开始操作！</string>
+    <string name="option">选项</string>
+    <string name="flash_image">刷入镜像</string>
+    <string name="export_image">导出镜像</string>
+    <string name="confirm_flash_image_path">确认要刷入的镜像路径：</string>
+    <string name="image_extract_path_confirm">选择镜像的输出路径：</string>
+    <string name="exporting_img">正在导出镜像</string>
 </resources>
