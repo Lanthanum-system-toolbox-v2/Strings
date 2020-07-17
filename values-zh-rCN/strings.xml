@@ -301,7 +301,7 @@
     <string name="th8">粉色</string>
     <string name="th9">AICP</string>
     <string name="sys_err_1">无法写入/system分区</string>
-    <string name="sys_err_1_msg">这可能导致软件的部分功能无法正常使用。请检查system锁，或重启设备尝试解决。</string>
+    <string name="sys_err_1_msg">这可能导致软件的部分功能无法正常使用。请检查system锁，或重启设备尝试解决。\n或者，这是因为你的设备使用了极为先进的“动态分区”，它暂时还没有办法被热挂载。</string>
     <string name="add_to_screen">增加桌面快捷方式</string>
     <string name="onboot_preparing">正在准备开机应用</string>
     <string name="lc">处理器锁核心</string>
@@ -332,9 +332,6 @@
     <string name="thermal_del_title">温控删除工具</string>
     <string name="thermal_del_subtitle">移除温控引擎</string>
     <string name="more">详情</string>
-    <string name="thermals_found">找到的温控：</string>
-    <string name="remove_thermal">移除温控</string>
-    <string name="thermal_remove_tip">本工具将会寻找任何温控相关内容并将其移除，如果你已经确定了要移除这些内容，请点击右下角“移除”按钮。建议在进行本操作前做好备份，很有可能会发生各种意外。</string>
     <string name="device_info">设备信息</string>
     <string name="device_name">设备：</string>
     <string name="android_ver">Android版本：</string>
@@ -348,4 +345,6 @@
     <string name="confirm_flash_image_path">确认要刷入的镜像路径：</string>
     <string name="image_extract_path_confirm">选择镜像的输出路径：</string>
     <string name="exporting_img">正在导出镜像</string>
+    <string name="unsupported_device">不支持的设备</string>
+    <string name="unsupported_partition">不支持的分区</string>
 </resources>

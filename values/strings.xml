@@ -301,7 +301,7 @@
     <string name="th8">Pink</string>
     <string name="th9">AICP</string>
     <string name="sys_err_1">Unable to write /system</string>
-    <string name="sys_err_1_msg">This may cause the app\'s features partly unavailable. Please check the system lock or reboot the device to try to resolve it.</string>
+    <string name="sys_err_1_msg">This may cause the app\'s features partly unavailable. Please check the system lock or reboot the device to try to resolve it.\nOr,your device is using logical partition, which can\'t be mounted for now.</string>
     <string name="add_to_screen">Add shortcut</string>
     <string name="onboot_preparing">Preparing to apply</string>
     <string name="lc">CPU core lock</string>
@@ -332,9 +332,6 @@
     <string name="thermal_del_title">Thermal remover</string>
     <string name="thermal_del_subtitle">Remove thermal engine as you like</string>
     <string name="more">more</string>
-    <string name="thermals_found">Thermals found:</string>
-    <string name="remove_thermal">remove</string>
-    <string name="thermal_remove_tip">(Wait for translation)</string>
     <string name="device_info">Device info</string>
     <string name="device_name">Device:</string>
     <string name="android_ver">Android version:</string>
@@ -348,4 +345,6 @@
     <string name="confirm_flash_image_path">Please confirm the image you want to flash</string>
     <string name="image_extract_path_confirm">Please confirm the output path</string>
     <string name="exporting_img">Exporting image</string>
+    <string name="unsupported_device">Unsupported device</string>
+    <string name="unsupported_partition">Unsupported partition</string>
 </resources>

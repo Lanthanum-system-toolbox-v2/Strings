@@ -282,7 +282,7 @@
 <string name="suceed_in_register">注冊成功！</string>
 <string name="supported_part">設備支持此功能</string>
 <string name="sys_err_1">無法寫入/system分區</string>
-<string name="sys_err_1_msg">這可能導致軟件的部分功能無法正常使用。請檢查system鎖，或重啟設備嘗試解决。</string>
+<string name="sys_err_1_msg">這可能導致軟件的部分功能無法正常使用。請檢查system鎖，或重啟設備嘗試解决。\n或者，這是因為你的設備使用了極為先進的“動態分區”，它暫時還沒有辦法被熱掛載。</string>
 <string name="system_applications">系统應用</string>
 <string name="system_applications_backuped">系統應用（有備份）</string>
 <string name="tap_to">點我前往</string>
